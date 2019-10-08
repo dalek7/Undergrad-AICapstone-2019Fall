@@ -1,6 +1,6 @@
 # AI Capstone 717303
 
-## Neural Style Transfer
+## 1. Neural Style Transfer
 <img src='01_NeuralStyleTransfer/example1.png' />
 
 ## 환경설정하기
